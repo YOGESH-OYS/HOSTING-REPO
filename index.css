@@ -4,13 +4,14 @@
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
+
 section {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     width: 100%;
-    background: url("background.jpg") no-repeat;
+    background: url("backgrond.jpg") no-repeat;
     background-position: center;
     background-size: cover;
 }
